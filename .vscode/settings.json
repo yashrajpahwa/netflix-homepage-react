@@ -1,0 +1,5 @@
+{
+    "compile-hero.scss-output-directory": "../../src/css",
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "compile-hero.generate-minified-css":false
+}
