@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "clonenetflix",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [{
+      "source": "**",
+      "destination": "/index.html"
+    }]
+  }
+}
