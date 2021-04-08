@@ -13,3 +13,5 @@
 
 - To start server --> `npm start`
 - To get production build --> `npm run build`
+
+[Check out the hosted version here](https://netflix-58549.netlify.app/)
