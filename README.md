@@ -1,5 +1,3 @@
-# Netflix Clone
-
 > This is the netflix clone made with react js
 
 ### Features
