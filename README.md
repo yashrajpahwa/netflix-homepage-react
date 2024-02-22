@@ -1,4 +1,4 @@
-> This is the netflix clone made with react js
+> Just a clone of the Netflix front page when selecting movies with almost zero functionality.
 
 ### Features
 
